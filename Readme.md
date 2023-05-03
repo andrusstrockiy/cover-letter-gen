@@ -1,7 +1,5 @@
 # Cover Letter template generator
 
-Here's a reformatted version of the statement:
-
 Are you tired of reinventing the wheel every time you apply for a new job by writing a cover letter from scratch? If so, we have a quick and dirty DevOps `yaml` solution with `Make` that could help streamline the process.
 
 Prerequsits:

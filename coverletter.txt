@@ -1,0 +1,1 @@
+Hello {{ (datasource "config").position | default "software engineer" }} at {{ (datasource "config").company }}!

@@ -17,4 +17,7 @@ Prerequsits:
     make render
     ```
 
+1. Profit:
+    As usual, go to the employer's website and fill out thousands of questions about your experience. Then, upload your resume/CV and paste a freshly backed, special edition of your Cover Letter for your dream job.
+
 Note: If your template or data file have different names or are located in a different directory, you'll need to update the makefile to reflect the correct paths.
